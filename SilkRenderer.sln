@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决�
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilkRenderer.Netfx", "SilkRenderer.Netfx\SilkRenderer.Netfx.csproj", "{E401352E-6BF0-4595-8E6E-B9F05ED93EFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -28,6 +30,10 @@ Global
 		{F01318DD-01C2-43E0-ACD7-A8954290C01C}.Release|x64.ActiveCfg = Release|x64
 		{F01318DD-01C2-43E0-ACD7-A8954290C01C}.Release|x64.Build.0 = Release|x64
 		{F01318DD-01C2-43E0-ACD7-A8954290C01C}.Release|x64.Deploy.0 = Release|x64
+		{E401352E-6BF0-4595-8E6E-B9F05ED93EFF}.Debug|x64.ActiveCfg = Debug|x64
+		{E401352E-6BF0-4595-8E6E-B9F05ED93EFF}.Debug|x64.Build.0 = Debug|x64
+		{E401352E-6BF0-4595-8E6E-B9F05ED93EFF}.Release|x64.ActiveCfg = Release|x64
+		{E401352E-6BF0-4595-8E6E-B9F05ED93EFF}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
